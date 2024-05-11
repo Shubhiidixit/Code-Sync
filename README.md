@@ -9,5 +9,7 @@ Ideal for technical recruiters and educators, it provides an environment that di
 ## Features
 
 - **Live Monitoring:** Code Sync offers real-time oversight capabilities, allowing interviewers or educators to monitor coding activity as it happens. This feature helps prevent cheating by providing immediate visibility into the candidate's actions during the assessment.
+  
+- **Plagiarism Detection:** The mirroring option in Code Mirror allows interviewers to detect cheating or plagiarism by providing a real-time mirror of the user's window, enabling them to closely monitor the candidate's actions during the assessment.
 
 
