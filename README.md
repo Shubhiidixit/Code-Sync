@@ -12,6 +12,6 @@ Ideal for technical recruiters and educators, it provides an environment that di
   
 - **Plagiarism Detection:** The mirroring option in Code Mirror allows interviewers to detect cheating or plagiarism by providing a real-time mirror of the user's window, enabling them to closely monitor the candidate's actions during the assessment.
 
-## Application
+## Applications
 
 
