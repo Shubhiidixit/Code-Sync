@@ -8,7 +8,7 @@ It supports multiple programming languages, allowing candidates to showcase thei
 <br>
 Ideal for technical recruiters and educators, it provides an environment that discourages cheating and plagiarism during live coding interviews or exams.
 
-## Features
+## Features:-
 
 - **Live Monitoring:** Code Sync offers real-time oversight capabilities, allowing interviewers or educators to monitor coding activity as it happens. This feature helps prevent cheating by providing immediate visibility into the candidate's actions during the assessment.
   
