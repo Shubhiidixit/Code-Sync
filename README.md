@@ -15,7 +15,7 @@ Ensures that changes made in one window are immediately visible in the other, en
 
 - **User-Friendly Interface:** Offers a clean, intuitive interface that enhances the overall user experience and productivity.
 
-- **Live Monitoring:** This platform offers real-time oversight capabilities, allowing interviewers or educators to monitor coding activity as it happens. This feature helps prevent cheating by providing immediate visibility into the candidate's actions during the assessment.
+- **Live Monitoring:** This platform offers real-time oversight capabilities, allowing interviewers or educators to monitor coding activity as it happens. 
   
 - **Plagiarism Detection:** The mirroring option in Code Mirror allows interviewers to detect cheating or plagiarism by providing a real-time mirror of the user's window, enabling them to closely monitor the candidate's actions during the assessment.
 
@@ -25,7 +25,7 @@ Ensures that changes made in one window are immediately visible in the other, en
 
 ## Applications
 
-- **Technical Interviews:** Conduct live coding interviews with real-time monitoring and screen mirroring to guarantee candidates are solving problems independently, ensuring candidates cannot cheat by accessing external resources. Use plagiarism detection to verify the originality of code submissions during the interview process.
+- **Technical Interviews:** Conduct live coding interviews with real-time monitoring and screen mirroring to guarantee candidates are solving problems independently, ensuring candidates cannot cheat by accessing external resources. 
 - **Collaborative Coding:** Enables pair programming and team collaborations by allowing multiple developers to work on the same codebase simultaneously.
 - **Code Reviews:** Enhances the code review process by allowing team members to review, comment, and edit code in real time.
 - **Remote Development:** Ideal for remote development teams, enabling seamless collaboration and communication among team members regardless of location.
