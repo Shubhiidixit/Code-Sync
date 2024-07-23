@@ -1,6 +1,6 @@
 # Code-Sync
 
-LINK:- https://jazzy-smakager-2e094f.netlify.app/
+Link:- https://jazzy-smakager-2e094f.netlify.app/
 
 Code Sync is a versatile, real-time coding platform designed to streamline technical interviews. Designed to ensure the integrity and authenticity of coding assessments.
 It supports multiple programming languages, allowing candidates to showcase their coding skills in their preferred environment. The platform features a mirroring function that enables interviewers to view candidates' progress live, facilitating immediate feedback and interaction.
@@ -8,7 +8,7 @@ It supports multiple programming languages, allowing candidates to showcase thei
 <br>
 Ideal for technical recruiters and educators, it provides an environment that discourages cheating and plagiarism during live coding interviews or exams.
 
-## Features:-
+## Features
 
 - **Live Monitoring:** Code Sync offers real-time oversight capabilities, allowing interviewers or educators to monitor coding activity as it happens. This feature helps prevent cheating by providing immediate visibility into the candidate's actions during the assessment.
   
