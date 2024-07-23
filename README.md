@@ -35,7 +35,18 @@ Ensures that changes made in one window are immediately visible in the other, en
 
 ![image](https://github.com/user-attachments/assets/e799b6ce-3db9-4236-9514-5fba900f4bb8)
 
+- In the first window, the 'Mirror' option is enabled, allowing the other person to see what is being written in real time. This can be used in interviews to detect any cheating or copy-paste actions and ensure transparency.
+
 ![image](https://github.com/user-attachments/assets/d5ead15c-4f83-49a5-98e4-146a7f14c147)
+
+- The real-time mirroring feature serves as an alternative to traditional screen sharing.
+
+
+
+
+
+
+
 
 
 
